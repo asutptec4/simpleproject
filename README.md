@@ -1,3 +1,1 @@
 simpleproject
-
-some new info
